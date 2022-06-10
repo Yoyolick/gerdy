@@ -7,5 +7,10 @@
   justify-content: center;
 }
 .header{
+  color: rgb(255, 255, 255);
   font-size: 50px;
+  text-shadow: 2px 2px #000000;
+  background-color: #000000b9;
+  padding: 10px;
+  border-radius: 30px;
 }
